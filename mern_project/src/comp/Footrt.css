@@ -1,0 +1,18 @@
+.sosial_media_links{
+    color: rgb(255, 0, 0);
+}
+.sosial_media_links:hover{
+    color: rgb(209, 111, 111);
+}
+
+
+.social_media_icons{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    color: rgb(255, 0, 0);
+    
+}
+.social_media_icons:hover{
+    color: rgb(114, 74, 114);
+}
